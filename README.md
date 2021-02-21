@@ -13,6 +13,7 @@ A daily Planner to help you manage and schedule your tasks during the day.
 
 ## Daily Planner
 
+* Link 
 [Planner](https://jaimecedillo.github.io/daily-planner/)
 
 
