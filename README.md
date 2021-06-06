@@ -1,3 +1,4 @@
+
 # Daily Planner
 A daily Planner to help you manage and schedule your tasks during the day.
 
@@ -17,4 +18,4 @@ A daily Planner to help you manage and schedule your tasks during the day.
 [Planner](https://jaimecedillo.github.io/daily-planner/)
 
 
-![Application Screenshot](https://github.com/jaimecedillo/daily-planner/blob/main/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/74879881/120931773-51920580-c6b0-11eb-9810-76225daec2c3.png)
